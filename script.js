@@ -11,9 +11,9 @@
 const CONFIG = {
   companyName: "Confort Veículos",
 
-  whatsapp: "5544999999999",
+  whatsapp: "5544991443253",
 
-  whatsappDisplay: "(44) 99999-9999",
+  whatsappDisplay: "(44) 99144-3253",
 
   instagramUrl: "https://www.instagram.com/confortveiculos",
 
@@ -23,8 +23,6 @@ const CONFIG = {
 
   openingHours: "Segunda a sexta, das 8h às 18h | Sábado, das 8h às 13h"
 };
-
-
 /* =========================================================
    ELEMENTOS
 ========================================================= */
